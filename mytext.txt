@@ -1,0 +1,9 @@
+Name = Muhammad Sajid Ali Khan
+
+Father Name = Shahid Ali Khan
+
+SAP id = 70077989
+
+Phone No = 0320-8402391
+
+Status = Pass
